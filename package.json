@@ -2,6 +2,6 @@
   "name": "node-js-proj",
   "version": "1.0.0",
   "scripts": {
-    "start": "echo 'Hello, Alexey Nehaenko'"
+    "start": "echo 'Hello, Vladimir Galkin'"
   }
 }
